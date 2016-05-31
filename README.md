@@ -1,2 +1,2 @@
 # Python_codes2
-This is test directory, Please check out Python_codes directory
+This is a test directory, Please check out Python_codes directory
